@@ -1,0 +1,14 @@
+package com.akikikie.ad.tamapp;
+
+import android.support.v7.app.AppCompatActivity;
+import android.os.Bundle;
+
+public class secpage extends AppCompatActivity {
+
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_secpage);
+    }
+}
